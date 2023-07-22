@@ -12,5 +12,4 @@
 
 # me contacter
 
-je suis sur discord ! **pseudo : effumatedev**
-[!clique ici pour me contacter(https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/940965751769161789)
+![clique ici pour me contacter(https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/940965751769161789)
