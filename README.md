@@ -1,7 +1,7 @@
 # SALUT TOI!
 
-+ je suis chroma
-💙 fan de gmod a vie mdr
++ je suis vista
+💙
 # ce que je sais faire
 📽 du montage
 💻 j'aprend la programation
