@@ -7,7 +7,7 @@
 💻 j'aprend la programation
 
 # stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=royalchroma&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vistapower&show_icons=true&theme=merko)
 
 # me contacter
-j'ai discord : **mon pseudo : royalchroma**
+j'ai discord : **mon pseudo : vista3002*
